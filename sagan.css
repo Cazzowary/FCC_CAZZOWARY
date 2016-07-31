@@ -1,0 +1,34 @@
+.intro {
+  border:2px solid black;
+  text-align:center;
+  background-color:#ddd;
+  border-radius:10px;
+}
+
+.body_main{
+    border: 2px solid black;
+  background-color:#d9d999;
+  border-radius:10px;
+  font-family:Tahoma;
+  font-size:18px;
+}
+
+.sagan_pic {
+   align:inline-block;
+}
+
+#outro {
+  margin-left:35%;
+}
+img {
+ 
+  border: 2px solid black;
+  align:inline-block;
+  height:400px;
+}
+h1 {
+  font-size:70px;
+  font-family:Tahoma;
+  color:black;
+  background-color:#d9d999
+}
